@@ -74,7 +74,7 @@ var apps = [
     {
       'id': 'snapchat',
       'title': 'Snapchat',
-      'url': 'https://snapchat.com/',
+      'url': 'https://web.snapchat.com/',
       'image': 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Ftech%2Ftalkingtech%2F2019%2F08%2F16%2Ftwitterverse-not-happy-new-snapchat-logo%2F2025063001%2F&psig=AOvVaw1lk_TpGFd2G9JzLLo4VJi5&ust=1710897089521000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMDe0ryS_4QDFQAAAAAdAAAAABAE'
     },
     {
